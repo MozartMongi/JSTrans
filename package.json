@@ -1,8 +1,8 @@
 {
-  "name": "JSTrans",
+  "name": "jstrans",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/MozartMongi/JSTrans.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "ejs",
+    "postgres",
+    "sequelize",
+    "gmaps-direction"
+  ],
+  "author": "Mozart Sebastian Mongi, Syihab Muchsin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MozartMongi/JSTrans/issues"
