@@ -3,52 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        <%-include('../styles/main.css') %>
+    </style>
     <title>List of Order Page</title>
 </head>
 <body>
-    <%- include('partial/_navbar') %> 
-<br>
-<br>
-    <table border="3">
-        <thead>
-            <th>
-                Departure
-            </th>
-            <th>
-                Depart Time
-            </th>
-        
-            <th>
-                Arrival
-            </th>
-            <th>
-                Arrive Time
-            </th>
-            <th>
-                Seats
-            </th>
-            <th>
-                Price
-            </th>
-            <th>
-                Action
-            </th>
-        </thead>
-        <tbody>
-            <% data.Tickets.forEach(el =>{ %>
-                <tr>
-                    <td><%= el.Departure %> </td>
-                    <td><%= el.DepartTime %> </td>
-                    <td><%= el.Arrival %> </td>
-                    <td><%= el.ArriveTime %> </td>
-                    <td><%= el.Seats %> </td>
-                    <td><%= el.Price %> </td>
-                    <td><a href="/delete/<%= el.id %>">DELETE</a><a href="https://www.google.com/maps/dir/?api=1&destination=<%= el.DepartPoint %>" target="_blank"> || View Map</a></td>
+    <header>
+        <%- include('partial/_navbar') %> 
+    </header>
+    <main>
+    <br>
+    <br>
+        <h1>Halo <%= data.Fullname %>, <br> this is your Booking List</h1>
+        <table border="3">
+            <thead>
+                <th>
+                    Departure
+                </th>
+                <th>
+                    Depart Time
+                </th>
+            
+                <th>
+                    Arrival
+                </th>
+                <th>
+                    Arrive Time
+                </th>
+                <th>
+                    Seats
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Action
+                </th>
+            </thead>
+            <tbody>
+                <% data.Tickets.forEach(el =>{ %>
+                    <tr>
+                        <td><%= el.Departure %> </td>
+                        <td><%= el.DepartTime %> </td>
+                        <td><%= el.Arrival %> </td>
+                        <td><%= el.ArriveTime %> </td>
+                        <td><%= el.Seats %> </td>
+                        <td><%= el.Price %> </td>
+                        <td><a href="/delete/<%= el.id %>">DELETE</a><a href="https://www.google.com/maps/dir/?api=1&destination=<%= el.DepartPoint %>" target="_blank"> || View Map</a></td>
 
-                </tr>
-           <% }) %>
-        </tbody>
-    </table>
-    
+                    </tr>
+            <% }) %>
+            </tbody>
+        </table>
+    </main><br><br><br><br>
+    <%- include('partial/_footer') %> 
 </body>
 </html>

@@ -3,13 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        <%-include('../styles/main.css') %>
+    </style>
+  
     <title>Home Page</title>
 </head>
 <body>
-    <%- include('partial/_navbar') %> 
+    <header>
+        <%- include('partial/_navbar') %> 
+    </header>
     <br><br>
-    <h1>Welcome to JS Trans</h1>
-    <p>PT. Javascript Transportasi Nusantara</p>
-    
+    <main>
+        <h1>Welcome to JS Trans</h1>
+        <p>PT. Javascript Transportasi Nusantara</p>
+    </main>
+    <footer>
+        <%- include('partial/_footer') %> 
+    </footer>
 </body>
 </html>

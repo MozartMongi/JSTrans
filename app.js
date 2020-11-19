@@ -12,7 +12,6 @@ app.use(session({
     saveUninitialized: true,
   }))
 app.use('/', router)
-// app.use(express.static(''))
 app.use(express.static(__dirname + 'styles'))
 
 app.listen(port, () => {

@@ -3,29 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        <%-include('../styles/form.css') %>
+   </style>
     <title>Form Registration</title>
+    
 </head>
 <body>
     <%- include('partial/_navbar') %> 
 
-    <h1>Form Registration</h1>
+    <h2>Form Registration</h2>
+
     <form action="/register" method="post">
-        <br><br>
-        <label for="email">Email</label>
-        <input type="text" name="email" id="email" placeholder="e.g blablabla@mail.net" required>
-        <br><br>
-        <label for="fullname">Full Name</label>
-        <input type="text" name="fullname" id="fullname" placeholder="e.g Joko Widodo" required>
-        <br><br>
-        <label for="phone">Phone</label>
-        <input type="text" name="phone" id="phone" required>
-        <br><br>
-        <label for="password">Password</label>
-        <input type="password" name="password" id="password"  required>
-        <br>
-        <br>
-        <input type="submit" value="SUBMIT">
-    </form>
-    
+        <div class="imgcontainer">
+        <img src="https://st2.depositphotos.com/1006318/5909/v/380/depositphotos_59095205-stock-illustration-businessman-profile-icon.jpg" alt="Avatar" class="avatar">
+        </div>
+
+        <div class="container">
+        <label for="email"><b>Email</b></label>
+        <input type="text" id="email" placeholder="e.g blablabla@mail.net" name="email" required><br>
+
+        <label for="fullname"><b>Full Name</b></label>
+        <input type="text" id="fullname" placeholder="e.g Joko Widodo" name="fullname" required><br>
+
+        <label for="phone"><b>Phone</b></label>
+        <input type="text" id="phone" placeholder="+62 xxx-xxx-xxx" name="phone" required><br>
+
+        <label for="password"><b>Password</b></label>
+        <input type="password"id="password" placeholder="Enter Password" name="password" required><br>
+            
+        <button type="submit">SUBMIT</button>
+        </div>
+
+        <div class="container" style="background-color:#f1f1f1">
+        <a href="/"><button type="button" class="cancelbtn">Cancel</button></a>
+        </div>
+    </form><br><br>
+    <%- include('partial/_footer') %> 
 </body>
 </html>

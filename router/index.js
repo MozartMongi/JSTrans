@@ -32,6 +32,7 @@ router.get('/orders', Controller.listOrders)
 router.get('/edit/profile', Controller.editProfile)
 router.post('/edit/profile', Controller.updateProfile)
 router.get('/delete/:id', Controller.destroyTicket)
+router.get('/logout',Controller.logout)
 
 
 

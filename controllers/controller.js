@@ -53,8 +53,11 @@ class Controller {
     }
 
     static listTicket(req, res){
-        Ticket.findAll()
+        Ticket.findAll({
+            include:[Passenger]
+        })
         .then(data =>{
+           
             res.render('listTicket', {data})
         })
         .catch(err =>{
@@ -85,6 +88,7 @@ class Controller {
             include:[Ticket]
         })
         .then(data =>{
+    
             res.render('listOrders', {data})
         })
         .catch(err =>{
@@ -143,7 +147,13 @@ class Controller {
         })
 
     }
+    static logout(req,res){
+        req.session.destroy(function (err) {
+            res.redirect('/'); //Inside a callback… bulletproof!
+           });
+    }
 }
+    
     
 
 

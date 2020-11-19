@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image:url('https://github.com/MozartMongi/JSTrans/raw/development/roadtrip-01.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 100%;
+  background-size: cover;
+}
+main{
+  margin: 20px;
+}
+table{
+  margin:auto;
+  background-color: aliceblue;
+}
+
