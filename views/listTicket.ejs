@@ -38,6 +38,7 @@
         </thead>
         <tbody>
             <% data.forEach(el =>{ %>
+                <form action="/order/<%= el.id %> " method="post">
                 <tr>
                     <td><%= el.Departure %> </td>
                     <td><%= el.DepartTime %> </td>
@@ -46,10 +47,10 @@
                     <td><%= el.ArriveTime %> </td>
                     <td><%= el.Seats %> </td>
                     <td><%= el.Price %> </td>
-                    <td><a href="/orders/<%= el.id %> ">BUY || </a> <a href="/maps">View Map</a> </td>
+                    <td><input type="submit" value="BUY"> <a href="/maps"> || View Map</a> </td>
 
                 </tr>
-
+            </form>
            <% }) %>
         </tbody>
     </table>
