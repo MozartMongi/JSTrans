@@ -1,4 +1,4 @@
-const {Passenger, Ticket} = require('../models/index')
+const {Passenger, Ticket, PassengerTicket} = require('../models/index')
 
 class Controller {
 
@@ -28,6 +28,20 @@ class Controller {
         Ticket.findAll()
         .then(data =>{
             res.render('listTicket', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+    static buyTicket(req, res){
+        let buyerData = {
+            TicketId: +req.params.id,
+            // PassengerId: 1 ---> buat ngetes
+            //PassengerId : ambil dari session ya bro karena ini tergantung siapa yg login
+        }
+        PassengerTicket.create(buyerData)
+        .then(result =>{
+            res.redirect('/orders')
         })
         .catch(err =>{
             res.send(err)
