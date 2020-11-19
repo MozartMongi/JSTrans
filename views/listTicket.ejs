@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List of Ticket Page</title>
+</head>
+<body>
+    <%- include('partial/_navbar') %> 
+    <br>
+    <br>
+    <table border="1">
+        <thead style="background-color: rgb(161, 199, 201);">
+            <th>
+                Departure
+            </th>
+            <th>
+                Depart Time
+            </th>
+            <th>
+                Depart Point
+            </th>
+            <th>
+                Arrival
+            </th>
+            <th>
+                Arrive Time
+            </th>
+            <th>
+                Seats
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Action
+            </th>
+        </thead>
+        <tbody>
+            <% data.forEach(el =>{ %>
+                <tr>
+                    <td><%= el.Departure %> </td>
+                    <td><%= el.DepartTime %> </td>
+                    <td><%= el.DepartPoint %> </td>
+                    <td><%= el.Arrival %> </td>
+                    <td><%= el.ArriveTime %> </td>
+                    <td><%= el.Seats %> </td>
+                    <td><%= el.Price %> </td>
+                    <td><a href="/orders/<%= el.id %> ">BUY || </a> <a href="/maps">View Map</a> </td>
+
+                </tr>
+
+           <% }) %>
+        </tbody>
+    </table>
+    
+</body>
+</html>

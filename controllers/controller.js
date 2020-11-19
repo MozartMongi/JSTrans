@@ -20,6 +20,18 @@ class Controller {
         .then(result =>{
             res.redirect('/')
         })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+    static listTicket(req, res){
+        Ticket.findAll()
+        .then(data =>{
+            res.render('listTicket', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
     }
 
 }
