@@ -37,8 +37,7 @@ class Controller {
     static buyTicket(req, res){
         let buyerData = {
             TicketId: +req.params.id,
-            // PassengerId: req.session.PassengerId
-            //PassengerId : ambil dari session ya bro karena ini tergantung siapa yg login
+            PassengerId: req.session.PassengerId,
         }
         PassengerTicket.create(buyerData)
         .then(result =>{
@@ -75,7 +74,8 @@ class Controller {
         })
         .then(passenger=>{
             if(passenger && checkPassword(password,passenger.Password)){
-                res.send(`Welcome ! ${passenger.Fullname}.`)
+                req.session.PassengerId= passenger.id
+                res.redirect('/')
             }else{
                 res.send(`Oops! Invalid Usename or Password`)
             }
