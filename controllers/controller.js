@@ -25,44 +25,9 @@ class Controller {
             res.send(err)
         })
     }
-    static listTicket(req, res){
-        Ticket.findAll()
-        .then(data =>{
-            res.render('listTicket', {data})
-        })
-        .catch(err =>{
-            console.log(err)
-            res.send(err)
-        })
-    }
-    static buyTicket(req, res){
-        let buyerData = {
-            TicketId: +req.params.id,
-            PassengerId: req.session.PassengerId
-        }
-        PassengerTicket.create(buyerData)
-        .then(result =>{
-            res.redirect('/orders')
-        })
-        .catch(err =>{
-            res.send(err)
-        })
-    }
-
-    static listOrders(req, res){
-        let userId = req.session.PassengerId // dari session login
-        Passenger.findByPk(userId,{
-            include:[Ticket]
-        })
-        .then(data =>{
-            res.render('listOrders', {data})
-        })
-        .catch(err =>{
-            res.send(err)
-        })
-    }
     static loginForm(req,res){
         res.render('login')
+        
     }
     static loggedIn(req,res){
         const email= req.body.email
@@ -76,8 +41,6 @@ class Controller {
         .then(passenger=>{
             if(passenger && checkPassword(password,passenger.Password)){
                 req.session.PassengerId= passenger.id
-            console.log(req.session.PassengerId)
-
                 res.redirect('/')
             }else{
                 res.send(`Oops! Invalid Usename or Password`)
@@ -88,11 +51,53 @@ class Controller {
         })
         
     }
+
+    static listTicket(req, res){
+        Ticket.findAll()
+        .then(data =>{
+            res.render('listTicket', {data})
+        })
+        .catch(err =>{
+            console.log(err)
+            res.send(err)
+        })
+    }
+    static buyTicket(req, res){
+       
+        let buyerData = {
+            TicketId: +req.params.id,
+            PassengerId: req.session.PassengerId
+        }
+        PassengerTicket.create(buyerData)
+        .then(result =>{
+            res.redirect('/orders')
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    
+    }
+
+    static listOrders(req, res){
+       
+        let userId = req.session.PassengerId // dari session login
+        Passenger.findByPk(userId,{
+            include:[Ticket]
+        })
+        .then(data =>{
+            res.render('listOrders', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+
+       
+        
+    }
     static editProfile(req, res){
         let userId = req.session.PassengerId // dari session login
         Passenger.findByPk(userId)
         .then(data =>{
-            console.log(req.session.PassengerId)
             res.render('editProfile', {data})
         })
         .catch(err =>{
@@ -120,8 +125,28 @@ class Controller {
             res.send(err)
         })
     }
+    static destroyTicket(req, res){
+        let deleteId = +req.params.id
+        let userId = req.session.PassengerId 
+        
+        PassengerTicket.destroy({
+            where:{
+                PassengerId: userId,
+                TicketId: deleteId
+            }
+        })
+        .then(data =>{
+            res.redirect('/orders')
+        })
+        .catch(err =>{
+            res.send(err)
+        })
 
+    }
 }
+    
+
+
 
 
 module.exports= Controller
