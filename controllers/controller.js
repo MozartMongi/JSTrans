@@ -1,4 +1,5 @@
 const {Passenger, Ticket, PassengerTicket} = require('../models/index')
+const {checkPassword}=require('../helpers/functionHelper')
 
 class Controller {
 
@@ -36,8 +37,7 @@ class Controller {
     static buyTicket(req, res){
         let buyerData = {
             TicketId: +req.params.id,
-            // PassengerId: req.session.PassengerId
-            //PassengerId : ambil dari session ya bro karena ini tergantung siapa yg login
+            PassengerId: req.session.PassengerId,
         }
         PassengerTicket.create(buyerData)
         .then(result =>{
@@ -60,6 +60,7 @@ class Controller {
             res.send(err)
         })
     }
+<<<<<<< HEAD
     static editProfile(req, res){
         let userId = req.session.PassengerId // dari session login
         Passenger.findByPk(userId)
@@ -70,6 +71,32 @@ class Controller {
             res.send(err)
         })
 
+=======
+    static loginForm(req,res){
+        res.render('login')
+    }
+    static loggedIn(req,res){
+        const email= req.body.email
+        const password= req.body.password
+
+        Passenger.findOne({
+            where:{
+                Email:email,
+            }
+        })
+        .then(passenger=>{
+            if(passenger && checkPassword(password,passenger.Password)){
+                req.session.PassengerId= passenger.id
+                res.redirect('/')
+            }else{
+                res.send(`Oops! Invalid Usename or Password`)
+            }
+        })
+        .catch(err=>{
+            res.send(err)
+        })
+        
+>>>>>>> f8eabc3f1740781857282aa2369d51ee974347ff
     }
 
 }

@@ -3,6 +3,7 @@ const {
   Model
 } = require('sequelize');
 const passengerticket = require('./passengerticket');
+const {hashPassword}=require('../helpers/functionHelper')
 module.exports = (sequelize, DataTypes) => {
   class Passenger extends Model {
     /**
@@ -21,8 +22,14 @@ module.exports = (sequelize, DataTypes) => {
     Phone: DataTypes.STRING,
     Password: DataTypes.STRING
   }, {
+    hooks:{
+      beforeCreate:(instance, option)=>{
+        instance.Password= hashPassword(instance.Password)
+      }
+    },
     sequelize,
     modelName: 'Passenger',
+    
   });
   return Passenger;
 };
