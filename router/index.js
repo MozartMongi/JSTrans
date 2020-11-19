@@ -5,9 +5,8 @@ const Controller = require('../controllers/controller')
 router.get('/', Controller.homePage)
 router.get('/register', Controller.formRegist)
 router.post('/register', Controller.submitData)
-router.get('/login', (req,res)=>{
-  res.render('login')
-})
+router.get('/login', Controller.loginForm)
+router.post('/login', Controller.loggedIn)
 
 
 module.exports = router
