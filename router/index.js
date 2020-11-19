@@ -7,6 +7,7 @@ router.get('/register', Controller.formRegist)
 router.post('/register', Controller.submitData)
 router.get('/tickets', Controller.listTicket)
 router.post('/order/:id', Controller.buyTicket)
+router.get('/orders', Controller.listOrders)
 
 
 module.exports = router
