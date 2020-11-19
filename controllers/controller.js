@@ -21,6 +21,45 @@ class Controller {
         .then(result =>{
             res.redirect('/')
         })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+    static listTicket(req, res){
+        Ticket.findAll()
+        .then(data =>{
+            res.render('listTicket', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+    static buyTicket(req, res){
+        let buyerData = {
+            TicketId: +req.params.id,
+            // PassengerId: req.session.PassengerId
+            //PassengerId : ambil dari session ya bro karena ini tergantung siapa yg login
+        }
+        PassengerTicket.create(buyerData)
+        .then(result =>{
+            res.redirect('/orders')
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+
+    static listOrders(req, res){
+        let userId = req.session.PassengerId // dari session login
+        Passenger.findByPk(userId,{
+            include:[Ticket]
+        })
+        .then(data =>{
+            res.render('listOrders', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
     }
     static loginForm(req,res){
         res.render('login')

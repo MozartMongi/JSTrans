@@ -21,5 +21,8 @@ module.exports = (sequelize, DataTypes) => {
     sequelize,
     modelName: 'PassengerTicket',
   });
+  PassengerTicket.beforeCreate((instance, options) =>{
+    instance.BookingCode = (instance.TicketId * instance.TicketId) + String.fromCharCode(65+instance.TicketId)
+  })
   return PassengerTicket;
 };
