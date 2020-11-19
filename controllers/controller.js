@@ -58,6 +58,7 @@ class Controller {
             res.render('listTicket', {data})
         })
         .catch(err =>{
+            console.log(err)
             res.send(err)
         })
     }
@@ -65,7 +66,7 @@ class Controller {
        
         let buyerData = {
             TicketId: +req.params.id,
-            PassengerId: req.session.PassengerId,
+            PassengerId: req.session.PassengerId
         }
         PassengerTicket.create(buyerData)
         .then(result =>{
@@ -90,10 +91,62 @@ class Controller {
             res.send(err)
         })
 
+       
+        
     }
+    static editProfile(req, res){
+        let userId = req.session.PassengerId // dari session login
+        Passenger.findByPk(userId)
+        .then(data =>{
+            res.render('editProfile', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+
+    static updateProfile(req, res){
+        let userId = req.session.PassengerId 
+        let updatedData = {
+            Email: req.body.email,
+            Fullname: req.body.fullname,
+            Phone: req.body.phone,
+            Password: req.body.password
+        }
+        Passenger.update(updatedData, {
+            where:{
+                id: userId
+            }
+        })
+        .then(data =>{
+            res.redirect('/')
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+    static destroyTicket(req, res){
+        let deleteId = +req.params.id
+        let userId = req.session.PassengerId 
+        
+        PassengerTicket.destroy({
+            where:{
+                PassengerId: userId,
+                TicketId: deleteId
+            }
+        })
+        .then(data =>{
+            res.redirect('/orders')
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+
+    }
+}
     
 
-}
+
 
 
 module.exports= Controller

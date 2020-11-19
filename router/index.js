@@ -29,6 +29,10 @@ router.use(isLoggedIn)
 router.get('/tickets', Controller.listTicket)
 router.post('/order/:id', Controller.buyTicket)
 router.get('/orders', Controller.listOrders)
+router.get('/edit/profile', Controller.editProfile)
+router.post('/edit/profile', Controller.updateProfile)
+router.get('/delete/:id', Controller.destroyTicket)
+
 
 
 module.exports = router
