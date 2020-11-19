@@ -60,6 +60,17 @@ class Controller {
             res.send(err)
         })
     }
+    static editProfile(req, res){
+        let userId = req.session.PassengerId // dari session login
+        Passenger.findByPk(userId)
+        .then(data =>{
+            res.render('editProfile', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+
+    }
 
 }
 
