@@ -31,13 +31,14 @@ class Controller {
             res.render('listTicket', {data})
         })
         .catch(err =>{
+            console.log(err)
             res.send(err)
         })
     }
     static buyTicket(req, res){
         let buyerData = {
             TicketId: +req.params.id,
-            PassengerId: req.session.PassengerId,
+            PassengerId: req.session.PassengerId
         }
         PassengerTicket.create(buyerData)
         .then(result =>{
@@ -60,18 +61,6 @@ class Controller {
             res.send(err)
         })
     }
-<<<<<<< HEAD
-    static editProfile(req, res){
-        let userId = req.session.PassengerId // dari session login
-        Passenger.findByPk(userId)
-        .then(data =>{
-            res.render('editProfile', {data})
-        })
-        .catch(err =>{
-            res.send(err)
-        })
-
-=======
     static loginForm(req,res){
         res.render('login')
     }
@@ -87,6 +76,8 @@ class Controller {
         .then(passenger=>{
             if(passenger && checkPassword(password,passenger.Password)){
                 req.session.PassengerId= passenger.id
+            console.log(req.session.PassengerId)
+
                 res.redirect('/')
             }else{
                 res.send(`Oops! Invalid Usename or Password`)
@@ -96,7 +87,38 @@ class Controller {
             res.send(err)
         })
         
->>>>>>> f8eabc3f1740781857282aa2369d51ee974347ff
+    }
+    static editProfile(req, res){
+        let userId = req.session.PassengerId // dari session login
+        Passenger.findByPk(userId)
+        .then(data =>{
+            console.log(req.session.PassengerId)
+            res.render('editProfile', {data})
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    }
+
+    static updateProfile(req, res){
+        let userId = req.session.PassengerId 
+        let updatedData = {
+            Email: req.body.email,
+            Fullname: req.body.fullname,
+            Phone: req.body.phone,
+            Password: req.body.password
+        }
+        Passenger.update(updatedData, {
+            where:{
+                id: userId
+            }
+        })
+        .then(data =>{
+            res.redirect('/')
+        })
+        .catch(err =>{
+            res.send(err)
+        })
     }
 
 }

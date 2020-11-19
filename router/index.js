@@ -11,6 +11,7 @@ router.get('/tickets', Controller.listTicket)
 router.post('/order/:id', Controller.buyTicket)
 router.get('/orders', Controller.listOrders)
 router.get('/edit/profile', Controller.editProfile)
+router.post('/edit/profile', Controller.updateProfile)
 
 
 module.exports = router
