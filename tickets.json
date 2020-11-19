@@ -1,0 +1,3242 @@
+[
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "05:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "08:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "05:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "05:30",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "05:45",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "06:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "06:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "05:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "05:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "05:45",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "06:00",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "06:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "06:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "06:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "06:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "06:30",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "06:45",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "09:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "07:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "10:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "07:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "10:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "05:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "08:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "05:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "05:30",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "05:45",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "06:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "06:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "05:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "05:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "05:45",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "06:00",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "06:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "06:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "06:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "06:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "06:30",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "06:45",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "09:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "07:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "10:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "07:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "10:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "05:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "08:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "05:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "05:30",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "05:45",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "06:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "06:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "05:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "05:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "05:45",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "06:00",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "06:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "06:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "06:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "06:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "06:30",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "06:45",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "09:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "07:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "10:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "07:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "10:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "05:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "08:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "05:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "05:30",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "05:45",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "06:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "06:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "05:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "08:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "05:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "08:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "05:45",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "08:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "06:00",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "06:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "06:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "06:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "09:00",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "06:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "09:15",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "06:30",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "09:30",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "06:45",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "09:45",
+    "Seats": 14,
+    "Price": 80000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "07:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "10:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "07:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "10:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "08:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "11:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "08:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "08:30",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "08:45",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "09:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "09:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "08:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "08:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "08:45",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "09:00",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "09:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "09:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "09:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "09:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "09:30",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "09:45",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "12:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "10:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "13:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "10:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "13:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "08:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "11:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "08:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "08:30",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "08:45",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "09:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "09:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "08:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "08:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "08:45",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "09:00",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "09:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "09:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "09:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "09:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "09:30",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "09:45",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "12:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "10:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "13:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "10:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "13:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "08:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "11:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "08:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "08:30",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "08:45",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "09:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "09:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "08:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "08:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "08:45",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "09:00",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "09:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "09:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "09:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "09:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "09:30",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "09:45",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "12:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "10:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "13:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "10:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "13:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "08:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "11:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "08:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "08:30",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "08:45",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "09:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "09:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "08:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "11:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "08:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "11:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "08:45",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "11:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "09:00",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "09:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "09:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "09:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "12:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "09:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "12:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "09:30",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "12:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "09:45",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "12:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "10:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "13:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "10:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "13:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "11:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "14:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "11:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "11:30",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "11:45",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "12:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "12:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "11:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "11:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "11:45",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "12:00",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "12:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "12:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "12:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "12:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "12:30",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "12:45",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "15:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "13:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "16:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "13:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "16:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "11:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "14:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "11:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "11:30",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "11:45",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "12:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "12:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "11:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "11:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "11:45",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "12:00",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "12:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "12:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "12:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "12:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "12:30",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "12:45",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "15:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "13:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "16:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "13:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "16:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "11:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "14:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "11:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "11:30",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "11:45",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "12:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "12:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "11:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "11:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "11:45",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "12:00",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "12:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "12:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "12:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "12:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "12:30",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "12:45",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "15:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "13:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "16:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "13:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "16:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "11:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "14:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "11:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "11:30",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "11:45",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "12:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "12:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "11:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "14:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "11:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "14:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "11:45",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "14:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "12:00",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "12:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "12:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "12:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "15:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "12:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "15:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "12:30",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "15:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "12:45",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "15:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "13:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "16:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "13:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "16:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "14:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "17:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "14:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "14:30",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "14:45",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "15:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "15:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "14:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "14:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "14:45",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "15:00",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "15:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "15:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "15:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "15:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "15:30",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "15:45",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "18:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "16:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "19:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "16:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "19:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "14:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "17:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "14:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "14:30",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "14:45",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "15:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "15:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "14:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "14:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "14:45",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "15:00",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "15:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "15:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "15:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "15:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "15:30",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "15:45",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "18:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "16:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "19:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "16:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "19:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "14:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "17:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "14:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "14:30",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "14:45",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "15:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "15:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "14:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "14:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "14:45",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "15:00",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "15:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "15:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "15:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "15:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "15:30",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "15:45",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "18:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "16:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "19:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "16:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "19:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "14:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "17:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "14:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "14:30",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "14:45",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "15:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "15:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "14:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "17:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "14:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "17:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "14:45",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "17:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "15:00",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "15:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "15:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "15:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "18:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "15:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "18:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "15:30",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "18:30",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "15:45",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "18:45",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "16:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "19:00",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "16:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "19:15",
+    "Seats": 14,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "17:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "20:00",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "17:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "17:30",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "17:45",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "18:00",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Plaza Indonesia",
+    "DepartTime": "18:15",
+    "DepartPoint": "Plaza+Indonesia",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "17:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "17:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "17:45",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "18:00",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "18:15",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Central Park Mall",
+    "DepartTime": "19:30",
+    "DepartPoint": "Central+Park",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "22:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "18:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "18:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "18:30",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "21:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "18:45",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "21:45",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "19:00",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "22:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Monas",
+    "DepartTime": "19:15",
+    "DepartPoint": "Monas+2",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "22:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "17:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "20:00",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "17:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "17:30",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "17:45",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "18:00",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Halim PK Airport",
+    "DepartTime": "18:15",
+    "DepartPoint": "Halim+PerdanaKusuma+Airport",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "17:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "17:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "17:45",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "18:00",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "18:15",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, Halte Ragunan",
+    "DepartTime": "19:30",
+    "DepartPoint": "Ragunan",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "22:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "18:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, BTC Mall Pasteur",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "18:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Floating Market Lembang",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "18:30",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Trans Studio Mall",
+    "ArriveTime": "21:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "18:45",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Husein SN Airport",
+    "ArriveTime": "21:45",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "19:00",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Simpang Dago",
+    "ArriveTime": "22:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Jakarta, PIK Avenue",
+    "DepartTime": "19:15",
+    "DepartPoint": "PIK+Avenue",
+    "Arrival": "Bandung, Paskal Hyper Square",
+    "ArriveTime": "22:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "17:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "20:00",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "17:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "17:30",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "17:45",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "18:00",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, BTC Mall Pasteur",
+    "DepartTime": "18:15",
+    "DepartPoint": "BTC+Fashion+Mall",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "17:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "17:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "17:45",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "18:00",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "18:15",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Floating Market Lembang",
+    "DepartTime": "19:30",
+    "DepartPoint": "Floating+Market+Lembang",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "22:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "18:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "18:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "18:30",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "21:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "18:45",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "21:45",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "19:00",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "22:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Trans Studio Mall",
+    "DepartTime": "19:15",
+    "DepartPoint": "Trans+Studio+Mall+Bandung",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "22:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "17:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "20:00",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "17:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "17:30",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "17:45",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "18:00",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Husein SN Airport",
+    "DepartTime": "18:15",
+    "DepartPoint": "Husein+Sastranegara+International+Airport",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "17:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "20:15",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "17:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "20:30",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "17:45",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "20:45",
+    "Seats": 17,
+    "Price": 120000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "18:00",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "18:15",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Simpang Dago",
+    "DepartTime": "19:30",
+    "DepartPoint": "Lintas+Shuttle+Dago+Point",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "22:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "18:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Plaza Indonesia",
+    "ArriveTime": "21:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "18:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Central Park Mall",
+    "ArriveTime": "21:15",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "18:30",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Monas",
+    "ArriveTime": "21:30",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "18:45",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halim PK Airport",
+    "ArriveTime": "21:45",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "19:00",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, Halte Ragunan",
+    "ArriveTime": "22:00",
+    "Seats": 17,
+    "Price": 150000
+  },
+  {
+    "Departure": "Bandung, Paskal Hyper Square",
+    "DepartTime": "19:15",
+    "DepartPoint": "Paskal+23+hyper+squate",
+    "Arrival": "Jakarta, PIK Avenue",
+    "ArriveTime": "22:15",
+    "Seats": 17,
+    "Price": 150000
+  }
+]
