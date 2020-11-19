@@ -17,6 +17,7 @@
     "ejs",
     "postgres",
     "sequelize",
+    "bcryptjs",
     "gmaps-direction"
   ],
   "author": "Mozart Sebastian Mongi, Syihab Muchsin",
@@ -26,6 +27,7 @@
   },
   "homepage": "https://github.com/MozartMongi/JSTrans#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "pg": "^8.5.1",
