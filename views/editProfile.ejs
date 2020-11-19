@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+         <%-include('../styles/form.css') %>
+    </style>
+    <title>JSTrans | Edit Profile</title>
+</head>
+<body>
+    <%- include('partial/_navbar') %> 
+
+    <h2>Profile</h2>
+    <!-- <form action="/edit/profile" method="post">
+        <br><br>
+        <label for="email">Email</label>
+        <input type="text" name="email" id="email" value="<%= data.Email %>" >
+        <br><br>
+        <label for="fullname">Full Name</label>
+        <input type="text" name="fullname" id="fullname"  value="<%= data.Fullname %>">
+        <br><br>
+        <label for="phone">Phone</label>
+        <input type="text" name="phone" id="phone"  value="<%= data.Phone %>">
+        <br><br>
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password"   value="<%= data.Password %>" required>
+        <br>
+        <br>
+        <input type="submit" value="SUBMIT">
+    </form>
+     -->
+
+    <form action="/edit/profile" method="post">
+        <div class="imgcontainer">
+        <img src="https://st2.depositphotos.com/1006318/5909/v/380/depositphotos_59095205-stock-illustration-businessman-profile-icon.jpg" alt="Avatar" class="avatar">
+        </div>
+
+        <div class="container">
+        <label for="email"><b>Email</b></label>
+        <input type="text" id="email" value="<%= data.Email %>" name="email" required><br>
+
+        <label for="fullname"><b>Full Name</b></label>
+        <input type="text" id="fullname" value="<%= data.Fullname %>" name="fullname" required><br>
+
+        <label for="phone"><b>Phone</b></label>
+        <input type="text" id="phone" value="<%= data.Phone %>" name="phone" required><br>
+
+        <label for="password"><b>Password</b></label>
+        <input type="password"id="password" value="<%= data.Password %>" name="password" required><br>
+            
+        <button type="submit">SUBMIT</button>
+        </div>
+
+        <div class="container" style="background-color:#f1f1f1">
+        <a href="/"><button type="button" class="cancelbtn">Cancel</button></a>
+        </div>
+    </form>
+
+    <%- include('partial/_footer') %> 
+</body>
+</html>
