@@ -24,9 +24,9 @@ router.post('/register',preventLogin, Controller.submitData)
 router.get('/login',preventLogin, Controller.loginForm)
 router.post('/login',preventLogin, Controller.loggedIn)
 
-router.use(isLoggedIn)
 
 router.get('/tickets', Controller.listTicket)
+router.use(isLoggedIn)
 router.post('/order/:id', Controller.buyTicket)
 router.get('/orders', Controller.listOrders)
 router.get('/edit/profile', Controller.editProfile)

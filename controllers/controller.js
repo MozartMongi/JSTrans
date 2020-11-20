@@ -61,7 +61,6 @@ class Controller {
             res.render('listTicket', {data})
         })
         .catch(err =>{
-            console.log(err)
             res.send(err)
         })
     }
@@ -73,7 +72,9 @@ class Controller {
         }
         PassengerTicket.create(buyerData)
         .then(result =>{
+            
             res.redirect('/orders')
+           
         })
         .catch(err =>{
             res.send(err)
@@ -88,7 +89,7 @@ class Controller {
             include:[Ticket]
         })
         .then(data =>{
-    
+
             res.render('listOrders', {data})
         })
         .catch(err =>{
