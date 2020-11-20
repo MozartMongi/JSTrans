@@ -72,7 +72,7 @@ class Controller {
         }
         PassengerTicket.create(buyerData)
         .then(result =>{
-            
+
             res.redirect('/orders')
            
         })
@@ -89,7 +89,7 @@ class Controller {
             include:[Ticket]
         })
         .then(data =>{
-
+          
             res.render('listOrders', {data})
         })
         .catch(err =>{
